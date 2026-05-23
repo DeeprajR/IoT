@@ -22,4 +22,5 @@ Project Code: [ESP8266 Radar](/ESP8266_Radar.ino)
 
 
 Servo: SG90 or MG90S
+
 Board Config: in Arduino IDE select "NodeMCU 1.0 (ESP-12E Module)" or "LOLIN(WEMOS) D1 R2 & mini"
